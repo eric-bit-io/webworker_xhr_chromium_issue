@@ -1,3 +1,7 @@
+## XHR PUT requests with File passed from non-spawning tab fail with net::access_denied error
+
+### Steps to reproduce
+
 1. Clone this repo
 2. Serve index.html and navigate to it
 3. Open worker inspector chrome://inspect/workers#workers
